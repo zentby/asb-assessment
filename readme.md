@@ -1,3 +1,16 @@
+# Possible future improvements
+
+-   Add loading state to the form
+-   Add validation to the form
+-   Add Router as needed
+-   Move the menu to a header component
+-   E2E tests
+-   Storybook integration
+
+---
+
+---
+
 # Assignment
 
 Create a one page application following the LO-FIs given in this assignment.
